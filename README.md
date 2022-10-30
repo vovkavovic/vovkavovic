@@ -35,8 +35,7 @@ Hi, I'm Vladimir, a Creative Frontend Developer and Sound Designer, working main
 
 ### 📊 Stats
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirdevicofficial&theme=blue-green)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vladimirdevicofficial&show_icons=true)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vladimirdevicofficial&show_icons=true&locale=en" alt="vladimirdevicofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladimirdevicofficial&" alt="vladimirdevicofficial" /></p>
