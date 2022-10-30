@@ -36,14 +36,8 @@ Hi, I'm Vladimir, a Creative Frontend Developer and Sound Designer, working main
 ### 📊 Stats
 
 ## 1. GitHub Stats
-<p>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vladimirdevicofficial&show_icons=true)</p>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vladimirdevicofficial&show_icons=true)
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirdevicofficial&theme=blue-green)
-## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=vladimirdevicofficial/Python)
-## 4. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=vladimirdevicofficial)
-// ### Repository View Counter - NTS23
-// ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/vladimirdevicofficial/Python)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladimirdevicofficial&" alt="vladimirdevicofficial" /></p>
