@@ -24,7 +24,7 @@ Hi, I'm Vladimir, a Creative Frontend Developer and Sound Designer, working main
 
 #
 
-### 🧰 What I ma learning
+### 🧰 Currently learning
 
 <img align="left" alt="C# CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="DotNet Framework" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
