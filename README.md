@@ -40,4 +40,4 @@ Hi, I'm Vladimir, a Creative Frontend Developer and Sound Designer, working main
 ## 2. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vladimirdevicofficial&show_icons=true)
 ## 2. GitHub Stats
-![Your Repository's Streaks]([https://github-readme-stats.vercel.app/api?username=vladimirdevicofficial&show_icons=true](https://github-readme-streak-stats.herokuapp.com/?user=vladimirdevicofficial&))
+![Your Repository's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=vladimirdevicofficial&))
