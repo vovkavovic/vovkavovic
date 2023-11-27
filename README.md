@@ -36,8 +36,8 @@ Hi, I'm Vladimir, a Creative Frontend Developer and Sound Designer, working main
 ### 📊 Stats
 
 ## 1. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirdevicofficial&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vovkavovic&theme=blue-green)
 ## 2. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vladimirdevicofficial&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vovkavovic&show_icons=true)
 ## 2. GitHub Stats
-![Your Repository's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=vladimirdevicofficial&))
+![Your Repository's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=vovkavovic&))
